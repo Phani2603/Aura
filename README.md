@@ -34,7 +34,7 @@ Aura is a comprehensive smart home IoT application 📱 designed to provide user
 1.  **Clone the repository 📥:**
 
     ```bash
-    git clone [https://github.com/your-username/Aura.git](https://github.com/your-username/Aura.git)
+    git clone git@github.com:Phani2603/Aura.git
     ```
 
 2.  **Navigate to the project directory 📂:**
